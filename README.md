@@ -1,2 +1,2 @@
 # Clinica Veterinaria
-Página web para la Clínica Veterinaria
+Página web para la Clínica Veterinaria.
