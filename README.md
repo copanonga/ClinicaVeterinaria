@@ -1,2 +1,2 @@
-# Clinica Veterinaria
-Página web para la Clínica Veterinaria.
+# Hospital Veterinario Parque de Berlín
+Página web para el Hospital Veterinario Parque de Berlín en Madrid.
